@@ -6,6 +6,7 @@ Class OlaMundo
         WriteLine("Olá, Mundo!")
         WriteLine("Test GitHub OK!!")
         WriteLine("Test Visual Studio OK!!")
+        WriteLine("Teste pra mostrar pro Jones")
 
         Dim Valor1 As Integer = 5
         Dim Valor2 As Integer = 2
