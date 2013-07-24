@@ -3,6 +3,6 @@
 Class OlaMundo
 
     Public Shared Sub Main()
-        WriteLine("Olá, Mundo!!")
+        WriteLine("Olá, Mundo!")
     End Sub
 End Class
